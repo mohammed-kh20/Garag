@@ -24,8 +24,7 @@ public class Project {
         vehicles.add(new Bus("Green",466988452,"Khader","Marcvedice",2012,services3));
         //////////////////////////////////////////////////////////////////////////
         Garage g=new Garage("AnabtaGarage","MohammedKhader",vehicles,"Tulkarm-Anabta");
-        
-//Hello world        
+       
 //        for(Vehicle v:g.getVehicles())
 //         if(v instanceof Car)
 //         for(Service s:v.getServices())

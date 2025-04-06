@@ -25,7 +25,7 @@ public class Project {
         //////////////////////////////////////////////////////////////////////////
         Garage g=new Garage("AnabtaGarage","MohammedKhader",vehicles,"Tulkarm-Anabta");
         
-        
+//Hello world        
 //        for(Vehicle v:g.getVehicles())
 //         if(v instanceof Car)
 //         for(Service s:v.getServices())
